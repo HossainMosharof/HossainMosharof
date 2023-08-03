@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. MOSHAROF HOSSAIN</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from Bangladesh</h3>
-<img align=“right” alt=“cat coding” width=“400” src=“https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif”>
+<img align="right" alt="cat_coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainmosharof&label=Profile%20views&color=0e75b6&style=flat" alt="hossainmosharof" /> </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainmosharof&show_icons=true&locale=en" alt="hossainmosharof" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainmosharof&" alt="hossainmosharof" /></p>
-
